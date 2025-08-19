@@ -1,0 +1,56 @@
+14:45:23.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.... 
+18:19:53.373 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\master.xml"
+18:19:53.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\master.xml
+
+18:21:52.563 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\master.xml"
+18:21:52.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\master.xml
+
+18:22:01.747 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+18:22:01.920 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:22:02.428 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:22:02.432 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.... 
+18:22:04.183 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.. 
+18:22:04.245 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..... 
+18:22:04.245 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+18:22:09.623 [main] INFO  testCases.TC002_LoginTest - *****************Starting TC002_LoginTest**********
+18:40:02.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\crossbrowsertesting.xml"
+18:40:02.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\crossbrowsertesting.xml
+
+18:40:11.922 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+18:40:11.922 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+18:40:12.055 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:40:12.121 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:40:16.731 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+18:40:16.844 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:40:59.420 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:40:59.426 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.... 
+11:46:13.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\grid-docker.xml"
+11:46:13.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\grid-docker.xml
+
+11:46:17.187 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+11:46:28.865 [main] INFO  testCases.TC002_LoginTest - *****************Starting TC002_LoginTest**********
+11:48:24.256 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\grid-docker.xml"
+11:48:24.458 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\grid-docker.xml
+
+13:53:26.472 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\grid-docker.xml"
+13:53:26.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\grid-docker.xml
+
+13:56:34.183 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\grid-docker.xml"
+13:56:34.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\grid-docker.xml
+
+21:58:32.183 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\jar\New folder\OpencartV121\master.xml"
+21:58:32.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\jar\New folder\OpencartV121\master.xml
+
+21:58:37.924 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TC001_AccountRegistrationTest *********
+21:58:38.142 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+21:58:59.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+21:58:59.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.... 
+21:59:13.969 [main] INFO  testCases.TC002_LoginTest - *****************Starting TC002_LoginTest**********
